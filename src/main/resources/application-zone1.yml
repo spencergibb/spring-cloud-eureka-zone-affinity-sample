@@ -1,0 +1,6 @@
+server.port: 8200
+
+eureka:
+  client:
+    availabilityZones:
+      region1: zone1,zone2
